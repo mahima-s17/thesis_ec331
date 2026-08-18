@@ -1,0 +1,5 @@
+*.log
+*.dta
+*.gph
+*~
+.DS_Store
